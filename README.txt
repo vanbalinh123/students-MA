@@ -1,2 +1,1 @@
-http://127.0.0.1:5500/student-management/index.html
-linhvanba
+https://vercel.com/vanbalinh123/students-ma

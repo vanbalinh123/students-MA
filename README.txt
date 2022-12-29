@@ -1,1 +1,1 @@
-https://vercel.com/vanbalinh123/students-ma
+https://students-ma.vercel.app/
